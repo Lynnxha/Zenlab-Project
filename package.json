@@ -1,5 +1,5 @@
 {
-  "name": "zenlab",
+  "name": "zenlab-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -35,5 +35,23 @@
     "eslint-config-next": "13.4.6",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "description": "<br/>\r <p align=\"center\">\r   <a href=\"https://github.com/Lynnxha\">\r     <img src=\"https://raw.githubusercontent.com/ShaanCoding/ReadME-Generator/main/images/logo.png\" alt=\"Logo\" width=\"80\" height=\"80\">\r   </a>",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lynnxha/Zenlab-Project.git"
+  },
+  "keywords": [
+    "Zenlab-Project"
+  ],
+  "author": "Lynnxha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lynnxha/Zenlab-Project/issues"
+  },
+  "homepage": "https://github.com/Lynnxha/Zenlab-Project#readme"
 }
